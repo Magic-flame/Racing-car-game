@@ -4,6 +4,6 @@ using UnityEngine;
 
 public class RoadSection : MonoBehaviour {
     
-        public Vector3 LastPoint;
+        public GameObject LastPoint;
     
 }
